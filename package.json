@@ -1,0 +1,25 @@
+{
+  "name": "zax-px2rem",
+  "version": "0.0.1",
+  "description": "css post loader for px2rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyingzzhou/zax-px2rem.git"
+  },
+  "keywords": [
+    "px2rem"
+  ],
+  "author": "zhouzhiying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiyingzzhou/zax-px2rem/issues"
+  },
+  "homepage": "https://github.com/zhiyingzzhou/zax-px2rem#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
