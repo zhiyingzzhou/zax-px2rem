@@ -42,9 +42,10 @@ module.exports = {
 }
 ```
 
+支持将px或者rpx单位转化成rem或者vw单位  
 
-详细信息查看[px2rem](https://github.com/songsiqi/px2rem)
-支持将px或者rpx转化为rem或者vw单位
+详细信息查看[px2rem](https://github.com/songsiqi/px2rem)    
+
 
 <!-- ## Example -->
 
