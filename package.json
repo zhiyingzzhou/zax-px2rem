@@ -1,6 +1,6 @@
 {
   "name": "zax-px2rem-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "css post loader for px2rem",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/zhiyingzzhou/zax-px2rem-loader#readme",
   "dependencies": {
+    "css": "^2.2.4",
+    "extend": "^3.0.2",
     "loader-utils": "^1.2.3"
   }
 }
