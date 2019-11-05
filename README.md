@@ -34,7 +34,8 @@ module.exports = {
         // options here
         options: {
           remUnit: 75,
-          unit: 'vw' // 支持'vw'或者'rem'
+          unit: 'vw', // 支持'vw'或者'rem'
+          disable: false, // 是否开启loader，默认值false(默认开启)
         }
       }]
     }]
